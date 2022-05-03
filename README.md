@@ -1,20 +1,31 @@
-
-
-<h1 align="center">Hi 👋, I'm S Bala Krishnan</h1>
-<h3 align="center">A passionate physicist from India, with helpful computational skills</h3>
+<h1 align="center">Hi 👋, I'm S Bala Krishnan!!!</h1>
+<h3 align="center">A passionate physicist from India, with helpful computational skills and software-hardware interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balakrish181&label=Profile%20views&color=0e75b6&style=flat" alt="balakrish181" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Physics, computational physics, thermo-electrics**
+- 🔭 I’m currently working on **Thermoelectric Mining**
+
+- 🌱 I’m currently learning **Netket, Jax, PyTorch**
+
+- 👯 I’m looking to collaborate on **Quantum Machine Learning**
+
+- 🤝 I’m looking for help with **Computational Physics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/balakrish181](https://github.com/balakrish181)
+
+- 💬 Ask me about **Physics, Computational Physics, Thermo-electrics**
 
 - 📫 How to reach me **balakrish181@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing](https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing)
 
 - ⚡ Fun fact **Ability to adapt to various skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/balakrish181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balakrish181" height="30" width="40" /></a>
 <a href="https://instagram.com/puppy123py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puppy123py" height="30" width="40" /></a>
 </p>
 
