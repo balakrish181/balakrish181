@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm S Bala Krishnan</h1>
 <h3 align="center">A passionate physicist from India, with helpful computational skills</h3>
