@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Thermoelectric Mining**
-
 - 🌱 I’m currently learning **Netket, Jax, PyTorch**
 
 - 👯 I’m looking to collaborate on **Quantum Machine Learning**
