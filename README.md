@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Bala Krishnan!!!</h1>
-<h3 align="center">A passionate physicist from India, with helpful computational skills and software-hardware interfaces.</h3>
+<h3 align="center">Physics and Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balakrish181&label=Profile%20views&color=0e75b6&style=flat" alt="balakrish181" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Netket, Jax, PyTorch**
 
-- 👯 I’m looking to collaborate on **Quantum Machine Learning**
+- 👯 I’m looking to collaborate on **Quantum Machine Learning and Machine Learning projects**
 
-- 🤝 I’m looking for help with **Computational Physics**
+- 🤝 I’m looking for help with **Quantum Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/balakrish181](https://github.com/balakrish181)
 
-- 💬 Ask me about **Physics, Computational Physics, Thermo-electrics**
+- 💬 Ask me about **Physics and machine Learning**
 
 - 📫 How to reach me **balakrish181@gmail.com**
 
