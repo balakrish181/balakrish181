@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Netket, Jax, PyTorch**
+- 🌱 I’m currently pursuing **Machine Learning in sciences**
 
 - 👯 I’m looking to collaborate on **Quantum Machine Learning and Machine Learning projects**
-
-- 🤝 I’m looking for help with **Quantum Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/balakrish181](https://github.com/balakrish181)
 
 - 💬 Ask me about **Physics and machine Learning**
 
 - 📫 How to reach me **balakrish181@gmail.com**
+- 
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing](https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing](https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing)
-
-- ⚡ Fun fact **Ability to adapt to various skills**
+- ⚡ Fun fact **Ability to adapt to various skills**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
