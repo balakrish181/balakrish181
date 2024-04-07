@@ -14,8 +14,8 @@
 - 💬 Ask me about **Physics and machine Learning**
 
 - 📫 How to reach me **balakrish181@gmail.com**
-- 
-<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing](https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing)
+
+<!--- - 📄 Know about my experiences [https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing](https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing)
 
 - ⚡ Fun fact **Ability to adapt to various skills**-->
 
