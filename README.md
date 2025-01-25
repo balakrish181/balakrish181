@@ -1,5 +1,5 @@
 
-# Bala Krishnan Sekar
+# Bala Krishnan 
 
 ## 👋 About Me
 I am a passionate **Physics and Machine Learning student** with a proven track record in innovation, hackathons, and research. With expertise in cutting-edge technologies and a solid academic foundation, I aim to harness the power of machine learning to solve real-world problems. Whether it’s building intelligent systems or leading multidisciplinary teams, I’m driven by curiosity and a commitment to excellence.
