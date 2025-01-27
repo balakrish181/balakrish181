@@ -1,73 +1,85 @@
+<h1 align="center">Hi 👋, I'm S Bala Krishnan!!!</h1>
+<h3 align="center">Physics and Machine Learning enthusiast</h3>
 
-# Bala Krishnan 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balakrish181&label=Profile%20views&color=0e75b6&style=flat" alt="balakrish181" /> </p>
 
-## 👋 About Me
-I am a passionate **Physics and Machine Learning student** with a proven track record in innovation, hackathons, and research. With expertise in cutting-edge technologies and a solid academic foundation, I aim to harness the power of machine learning to solve real-world problems. Whether it’s building intelligent systems or leading multidisciplinary teams, I’m driven by curiosity and a commitment to excellence.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 **MSc in Machine Learning in Science** (University of Nottingham, UK)
-  - Awarded the **100% Developing Solutions Masters Scholarship** for exceptional merit.
+- 🌱 I’m currently pursuing **Machine Learning in sciences**
 
-- 🧠 **BSc in Physics** (Madras Christian College, India)
-  - Winner of **Innovation in Science Pursuit for Inspired Research (INSPIRE)** Scholarship.
-  - Finalist at **Smart India Hackathon** and Runner-up at **NIT Trichy Hackathon**.
+- 👯 I’m looking to collaborate on **Quantum Machine Learning and Machine Learning projects**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/balakrish181](https://github.com/balakrish181)
 
-## 🔍 What I Do
-I combine physics, artificial intelligence, and data science to create impactful solutions across domains. My interests span:
-- **Machine Learning for Science:** Building models for simulation, prediction, and analysis.
-- **Hackathons and Innovation:** Crafting solutions for national and global challenges.
-- **Research and Development:** Leveraging advanced AI to tackle problems in cosmology, material science, and healthcare.
+- 💬 Ask me about **Physics and machine Learning**
 
----
+- 📫 How to reach me **balakrish181@gmail.com**
 
-## 💼 Experience
+<!--- - 📄 Know about my experiences [https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing](https://drive.google.com/file/d/1tjgQKiLgoLUfZJPJKCZyLAg63tGsXkkc/view?usp=sharing)
 
-### **Machine Learning Engineer (Part-time)** | Lidar Lounge, London
-- Developed a **Proof of Concept pipeline** for early skin cancer detection.
-- Managed datasets, built models (YOLOv11, PanDerm), and delivered a user-friendly GUI for AI-Human collaboration.
-- Achieved an **mAP@0.5:0.95 of 0.615** on detecting moles in 3D TBP images.
+- ⚡ Fun fact **Ability to adapt to various skills**-->
 
-### **Research Intern** | Indian Institute of Information Technology, Design and Manufacturing
-- Predicted thermoelectric material properties with **85% accuracy** using XGBoost.
-- Engineered a **military-grade thermoelectric jacket** for extreme cold temperatures (-15°C).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/balakrish181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balakrish181" height="30" width="40" /></a>
+<a href="https://instagram.com/puppy123py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puppy123py" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+    </a> 
+    <!-- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+    </a> -->
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </a> 
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+    </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+    </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/> 
+    </a> 
+   <!-- <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    </a> -->
+</p>
 
-## 🛠 Skills
-- **Languages:** Python
-- **AI Frameworks:** PyTorch, TensorFlow
-- **Data Science Tools:** NumPy, Pandas, SciPy, Scikit-learn
-- **ML Tools:** Neptune, LangChain, Llama-Index, OpenAI
-- **Version Control & Deployment:** Docker, Git, Poetry
-- **Additional Skills:** GUI Design, Scientific Research, Project Management
 
----
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrish181&show_icons=true&locale=en&layout=compact" alt="balakrish181" /></p>
 
-## 🌟 Key Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balakrish181&show_icons=true&locale=en" alt="balakrish181" /></p>-->
 
-### **Cosmological Simulation with Diffusion Models**
-- Reduced simulation runtime from **800 core hours to 2 minutes** using DiT and UNet DDPM models on 3D point cloud datasets.
-- Achieved a **Mean Absolute Fractional Difference (MAFD) of 1.1%** and a **Frechet Inception Distance (FID) of 0.79**.
-
-### **Research Paper Analysis with Retrieval-Augmented Generation (RAG)**
-- Scraped academic papers using SerpApi and converted them to Markdown for semantic search.
-- Developed context-aware query answering by integrating ChromaDB with **Cohere’s Zephyr-7b-alpha model**.
-
-### **Thermoelectric Jacket** (Smart India Hackathon Finalist)
-- Led a cross-functional team to design and prototype a jacket for extreme climates.
-
----
-
-## 📚 Learning and Growth
-- Attended **Toulouse Summer School on ML for Quantum Physics** to explore applications of quantum computing in many-body systems.
-- Participated in **Design Thinking Workshops** to enhance leadership and innovation skills.
-
----
-
-## 🤝 Let’s Connect
-- **Email:** balakrish.sekar@gmail.com
-- **LinkedIn:** [linkedin.com/in/balakrishnansekar](https://www.linkedin.com/in/balakrishnansekar)
-- **GitHub:** [github.com/balakrish181](https://github.com/balakrish181)
-
-Feel free to explore my projects, connect with me, or discuss collaborative opportunities. Let’s innovate together!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balakrish181&" alt="balakrish181" /></p>
