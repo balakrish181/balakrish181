@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently pursuing **Machine Learning in sciences**
+- 🌱 Machine Learning in Sciences at UoN, Nottingham and Physics at MCC, Chennai. 
 
 - 👯 I’m looking to collaborate on **Quantum Machine Learning and Machine Learning projects**
 
