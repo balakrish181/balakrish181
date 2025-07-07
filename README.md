@@ -1,12 +1,4 @@
-<!-- 
-Final README, reorganized for a more professional and logical flow.
-- Banner: Hosted on GitHub for reliability.
-- Name Puzzle: The creative introduction to your profile.
-- Bio: A powerful summary of your skills and experience.
-- Main Content: Your journey and tech stack are now the core focus after the intro.
-- GitHub Activity: Shows your current engagement.
-- Connect With Me: Moved to the end to serve as a clear call to action.
--->
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56d62c46-18da-43f9-8794-9864b810321e" alt="Cosmic Banner">
