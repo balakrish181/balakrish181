@@ -1,65 +1,71 @@
 <!-- 
-Hi S Bala Krishnan! 
-
-Here is your new space-themed README. I've kept all your information but organized it with a more cohesive and professional theme.
-https://giphy.com/gifs/space-walk-universe-Rm3cJx7OmvFWld8bM0
-How to customize:
-- You can change the banner GIF by replacing the URL in the first <img> tag. Search for "space coding gif" or "cosmos gif" to find more.
-- I've added a placeholder for your LinkedIn profile. Make sure to replace `your-linkedin-username` with your actual username.
-- The GitHub stats cards are using the 'tokyonight' theme to match the space aesthetic. You can find other themes on the github-readme-stats repository.
+Final README, reorganized for a more professional and logical flow.
+- Banner: Hosted on GitHub for reliability.
+- Name Puzzle: The creative introduction to your profile.
+- Bio: A powerful summary of your skills and experience.
+- Main Content: Your journey and tech stack are now the core focus after the intro.
+- GitHub Activity: Shows your current engagement.
+- Connect With Me: Moved to the end to serve as a clear call to action.
 -->
 
 <p align="center">
-  <img src="https://giphy.com/gifs/space-walk-universe-Rm3cJx7OmvFWld8bM0" alt="Coding in space" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/56d62c46-18da-43f9-8794-9864b810321e" alt="Cosmic Banner">
 </p>
 
-<h1 align="center"> You there, I'm S Bala Krishnan</h1>
-<h3 align="center">A Physics and Machine Learning enthusiast exploring the universe, one line of code at a time.</h3>
+<h1 align="center">nanhsirK alaB</h1>
+<p align="center"><i>(Change your perspective and you will get my name)</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balakrish181&label=Profile%20Views&color=0e75b6&style=flat-square" alt="balakrish181"/>
+  An MSc Machine Learning in Science graduate from the University of Nottingham, specializing in building deep learning models for scientific discovery. My work spans from developing diffusion models for cosmological simulations to architecting end-to-end computer vision pipelines for medical imaging. I am passionate about MLOps, generative AI, and the intersection of physics and computation.
 </p>
 
 > *"I have no special talents, I am only passionately curious."*
 > 
 > ― **Albert Einstein**
 
----
-
----
-
+<!--
 ### 🛠️ My Tech & Tool Constellation
+My technical skills, categorized for clarity.
 
-Here are the languages and tools I use to navigate the digital cosmos.
-
-| Languages          | Data Science & ML                                                                                                                                                                                                                                                                     | Web & Tools                                                                                                                                                                                                                                        |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Python` `C++` `C` | `PyTorch` `Scikit-learn` `Pandas` `OpenCV` `Seaborn` `MATLAB`                                                                                                                                                                                                                             | `Git` `HTML5` `CSS3` `JavaScript` `Arduino`                                                                                                                                                                                                        |
-| <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></a></p> | <p align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/></a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35"/></a></p> | <p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/></a></p> |
-
----
-
-### 🛰️ Connect With Me
-
-Let's connect and explore new frontiers together!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-bala-krishnan-linkedin" height="40" width="50" /></a>
-  <a href="https://kaggle.com/balakrish181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balakrish181-kaggle" height="40" width="50" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="40" width="50" /></a>
-  <a href="https://instagram.com/puppy123py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puppy123py" height="40" width="50" /></a>
-</p>
-
+| Category                  | Technologies                                                                                                                                                                                                                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**             | `Python`                                                                                                                                                                                                                                                                                      |
+| **Frameworks**            | `PyTorch`, `TensorFlow`, `OpenCV`, `Scikit-learn`, `HuggingFace`, `LangChain`, `LlamaIndex`                                                                                                                                                                                                                |
+| **LLM & Vector Search**   | `OpenAI APIs`, `FAISS`, `ChromaDB`                                                                                                                                                                                                                                                                        |
+| **Data & Visualization**  | `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`                                                                                                                                                                                                                                                      |
+| **Backend & Infra**       | `FastAPI`, `REST APIs`, `Docker`, `Git`, `Conda`                                                                                                                                                                                                                                                          |
+| **MLOps & Tools**         | `DVC`, `Neptune`, `Pydantic`, `Poetry`, `VS Code`, `Cursor`, `Windsurf`                                                                                                                                                                                                                                    |
+-->
 ---
 
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=balakrish181&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="balakrish181" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=balakrish181&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balakrish181&theme=tokyonight&hide_border=true" alt="balakrish181" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balakrish181&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrish181&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="balakrish181" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrish181&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🛰️ Connect With Me
+I'm always open to discussing new projects, sharing ideas, or exploring opportunities. Let's connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/balakrishnansekar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:balakrish.sekar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://kaggle.com/balakrish181" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://instagram.com/puppy123py" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
