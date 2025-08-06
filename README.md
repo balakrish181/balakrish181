@@ -4,8 +4,7 @@
   <img src="https://github.com/user-attachments/assets/56d62c46-18da-43f9-8794-9864b810321e" alt="Cosmic Banner">
 </p>
 
-<h1 align="center">nanhsirK alaB</h1>
-<p align="center"><i>(Change your perspective and you will get my name)</i></p>
+<h1 align="center">Bala</h1>
 
 <p align="center">
   An MSc Machine Learning in Science graduate from the University of Nottingham, specializing in building deep learning models for scientific discovery. My work spans from developing diffusion models for cosmological simulations to architecting end-to-end computer vision pipelines for medical imaging. I am passionate about MLOps, generative AI, and the intersection of physics and computation.
